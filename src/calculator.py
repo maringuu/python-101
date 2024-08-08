@@ -1,4 +1,4 @@
-'''
+"""
 Clean Code 101 calculator hands on
 
 Task 0: Create a branch and switch to it
@@ -16,12 +16,12 @@ Hints:
 
 Task 3.1: Push your branch to the remote repository
 Task 3.2: Setup a Merge Request and assign it to your supervisor
-'''
+"""
 
 
 # this is an example
 def add(a, b):
-    return a+b
+    return a + b
 
 
 # add your code here
